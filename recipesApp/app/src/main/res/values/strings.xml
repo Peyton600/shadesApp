@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">recipesApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="action_settings">Settings</string>
+    <string name="curry_dish">Curry Dish</string>
+    <string name="flip_btn">Flip Over</string>
+    <string name="ingredients">2c.  Vegetables sliced\n
+    1c. Curry powder\n
+    2c. Rice</string>
+    <string name="directions">Mix Vegetables in a bowl with curry powder. \n
+    Add rice</string>
+
+</resources>

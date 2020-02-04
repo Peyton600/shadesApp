@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812647557231",
+    "firebase_url": "https://shadesapp-e444d.firebaseio.com",
+    "project_id": "shadesapp-e444d",
+    "storage_bucket": "shadesapp-e444d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812647557231:android:754a30e9bd4e34e844859a",
+        "android_client_info": {
+          "package_name": "com.example.shadesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812647557231-ug5s14ea3ddu1ue9hqvedgjdira5vita.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shadesapp",
+            "certificate_hash": "0f690a2c233f1ddf66ccd43271bfe568eb3bb230"
+          }
+        },
+        {
+          "client_id": "812647557231-b629gkat5j5aa59bq5t5dvhnhqb7magh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmlZyWGWlFsi9N4oUrvN8rA4pmvZW_pvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812647557231-b629gkat5j5aa59bq5t5dvhnhqb7magh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
