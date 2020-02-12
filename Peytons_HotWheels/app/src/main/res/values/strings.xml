@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Peytons_HotWheels</string>
+    <string name="enter">Enter Your House Information.</string>
+    <string name="price">What is the price of your house?</string>
+    <string name="downp">What is your house down payment</string>
+    <string name="Loan">Choose A Loan Term</string>
+    <string name="loanReport">Loan Report</string>
+    <string name="fifteen">15 Years</string>
+    <string name="twenty">20 Years</string>
+    <string name="thirty">30 Years</string>
+    <string name="loanSum">Your Loan Summary</string>
+    <string name="refurn">Return to Data Entry</string>
+    <string name="report_line1">\n\t\t\t<b>Monthly Payment:</b>\t$</string>
+    <string name ="report_line2">\n\n\nNote:</string>
+    <string name="report_line3">\n1. Loan information is made avaliable by Peyton\'s EState.</string>
+    <string name="report_line4">\n\n2. A sales tax rate of 7% is required in the state of California.</string>
+    <string name="report_line5">\n\n3. Houses are financed at an annual intrest rate of 9%. \n\n</string>
+    <string name="report_line6">\n\tHouse Sticker Price: $</string>
+    <string name="report_line7">\n\tYou will put down: $</string>
+    <string name="report_line8">\n\tLoan term is</string>
+    <string name="report_line9">\n\tTaxed Amt: $</string>
+    <string name="report_line10">\n\tYour cost: $</string>
+    <string name="report_line11">\n\tBorrowed Amount: $</string>
+    <string name="report_line12">\n\tIntrest Amount: $</string>
+
+
+
+
+
+
+</resources>

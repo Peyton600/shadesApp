@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">unit con</string>
+    <string name="action_settings">Settings</string>
+    <string name="Grams_to_pounds">Pounds To Grams</string>
+    <string name="ui_menu_iches_cent">Inches To Cent.</string>
+    <string name="ui_menu_feet_meters">Feet to Meters</string>
+    <string name="feet">Feet</string>
+    <string name="meters">Meters</string>
+    <string name="quit">quit</string>
+</resources>
